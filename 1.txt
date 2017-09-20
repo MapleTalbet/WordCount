@@ -1,0 +1,7 @@
+if (stra=="" || stra =="{" || stra == "}" )
+            { 
+                empty++;
+            } 
+            else if((stra.indexOf("//"))>-1)//ÅÐ¶Ï×Ö·û´®straÖÐÊÇ·ñ´æÔÚ//×Ö·û
+
+ 
